@@ -1,3 +1,9 @@
+## eshop-project
+
+This is an eShop-project done by utilizing various resources and tutorials. The purpose of this project is to self study the fundementals and technologies behind simple eCommerce store. As the scope of our student projects in Oulu University of Applied Sciences were too small, we weren't always able to cover everything related web services that are found in real, working life scenarios.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
