@@ -1,6 +1,18 @@
+## eshop-project is now live in Heroku!
+https://fitstore-live.herokuapp.com/
+
+The main features such as ones listed below are now working.
+-product category routing
+-user registration/logins with Google Firebase authentications
+-shopping cart
+-checkout with Stripe payment frontend
+
+I'm still looking into GraphQL along with Apollo and doing backend for Stripe payments, but as the core features are working this was a good time to deploy using Heroku.
+
+
 ## eshop-project
 
-This is an eShop-project done by utilizing various resources and tutorials. The purpose of this project is to self study the fundementals and technologies behind simple eCommerce store. As the scope of our student projects in Oulu University of Applied Sciences were too small, we weren't always able to cover everything related web services that are found in real, working life scenarios.
+This is an eShop-project done by utilizing Andrei Neagoi's Udemy courses. The purpose of this project is to deepen my knowledge on the fundementals and technologies behind simple eCommerce store. And to learn the best practises in creating web applications with ReactJS Javascript library. Along with React, this project also utilizes Redux to give more freedom in manipulating React states, and Google Firebase to authenticate user registrations and logins.
 
 
 
