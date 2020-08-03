@@ -1,4 +1,4 @@
-## eshop-project is now live in Heroku!
+## eshop-project is now live on Heroku!
 https://fitstore-live.herokuapp.com/
 
 The main features such as ones listed below are now working.
