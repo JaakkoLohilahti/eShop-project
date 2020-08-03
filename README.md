@@ -1,10 +1,10 @@
 ## eshop-project is now live on Heroku!
 https://fitstore-live.herokuapp.com/
 
-The main features such as ones listed below are now working.
--product category routing
--user registration/logins with Google Firebase authentications
--shopping cart
+The main features listed below are now working. <br />
+-product category routing<br />
+-user registration/logins with Google Firebase authentications<br />
+-shopping cart<br />
 -checkout with Stripe payment frontend
 
 I'm still looking into GraphQL along with Apollo and doing backend for Stripe payments, but as the core features are working this was a good time to deploy using Heroku.
